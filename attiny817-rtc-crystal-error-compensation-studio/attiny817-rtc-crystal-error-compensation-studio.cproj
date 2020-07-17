@@ -12,9 +12,9 @@
     <OutputFileName>$(MSBuildProjectName)</OutputFileName>
     <OutputFileExtension>.elf</OutputFileExtension>
     <OutputDirectory>$(MSBuildProjectDirectory)\$(Configuration)</OutputDirectory>
-    <AssemblyName>RTCCrystalErrorCompensation</AssemblyName>
-    <Name>RTCCrystalErrorCompensation</Name>
-    <RootNamespace>RTCCrystalErrorCompensation</RootNamespace>
+    <AssemblyName>attiny817-rtc-crystal-error-compensation-studio</AssemblyName>
+    <Name>attiny817-rtc-crystal-error-compensation-studio</Name>
+    <RootNamespace>attiny817-rtc-crystal-error-compensation-studio</RootNamespace>
     <ToolchainFlavour>Native</ToolchainFlavour>
     <KeepTimersRunning>true</KeepTimersRunning>
     <OverrideVtor>false</OverrideVtor>
